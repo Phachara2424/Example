@@ -14,5 +14,7 @@ public class math21 {
 		System.out.println(a + "-" + b + " = " + d);
 		System.out.println(a + "*" + b + " = " + e);
 		System.out.println(a + "/" + b + " = " + f);
+		System.out.println(a + "/" + b + " = " + f);
 	}
+
 }
