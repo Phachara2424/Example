@@ -9,7 +9,7 @@ public class math21 {
 		int d = a - b;
 		int e = a * b;
 		int f = a / b;
-		int f = a / b;
+		
 		// OUTPUT
 		System.out.println(a + "+" + b + " = " + c);
 		System.out.println(a + "-" + b + " = " + d);
